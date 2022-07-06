@@ -1,0 +1,4 @@
+# This file stores configurations for your Shopify app.
+
+scopes = "read_orders,write_orders,read_fulfillments,write_fulfillments"
+INTEGRATION_API = "http://localhost:8888/MylerzIntegrationStaging"
